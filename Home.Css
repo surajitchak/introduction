@@ -9,6 +9,6 @@ h1{
 }
  
 About_btn{
-    
+    border: 2px solid red;
     text-align: end;
  }
