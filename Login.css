@@ -1,0 +1,43 @@
+ body{
+    margin-top: -400px;
+    padding: 507px;
+    background-color: bisque;
+    /* filter:   brightness(62%) saturate(127%)  ;
+     -webkit-filter:   brightness(62%) saturate(127%);  
+     -moz-filter:  Sbrightness(62%) saturate(127%)  ; */
+}
+
+h1{
+     margin: 2px ;
+     text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+     
+}
+    
+
+form{
+    margin: 39px;
+  
+    
+}
+ .point{
+padding: 9px;
+border-radius: 58px;
+    border: 2px solid rgb(247, 233, 38); 
+     box-shadow:27px 51px 149px 61px rgb(252, 250, 250) inset;
+     /* -webkit-box-shadow: 27px 51px 149px 61px rgba(0,0,0,0.8) inset; */
+     /* -moz-box-shadow: 27px 51px 149px 61px rgba(0,0,0,0.8) inset; */
+    height: 273px;
+background-color:rgb(109, 45, 45) ;}
+
+input{
+    border-radius: 11px;
+    margin-left: 16px;
+    padding: 4px;
+    margin: 9px;
+    background-color: rgb(255, 255, 255)
+    
+}
+form{
+    margin: 39px;
+    /* border: 6px solid rgb(86, 23, 128); */
+}
