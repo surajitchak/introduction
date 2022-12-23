@@ -1,14 +1,38 @@
-body{  background-color: white;
-
+* {
+    box-sizing: border-box;
 }
 
-h1{
+body {
+    background-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fmantralabs%2F&psig=AOvVaw0VrM1faXuJG0h7BOOk7wEe&ust=1671539239496000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOi0jYjXhfwCFQAAAAAdAAAAABAD";
+    margin: 0;
+}
+
+h1 {
     text-align: center;
-    border: 1px solid red;
-    
+    /* border: 1px solid red; */
+
 }
- 
-About_btn{
+
+.Point {
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    margin: 0 8px;
+}
+
+.Rating {
     border: 2px solid red;
-    text-align: end;
- }
+    text-align: inherit;
+    width: fit-content;
+    margin-left: 1018px;
+    margin-top: 76px;
+}
+
+/* intro section */
+.intro {
+    background-color: blueviolet;
+    height: 400px;
+}
